@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/iamvishalsehgal" target="blank"><img src="https://img.shields.io/twitter/follow/iamvishalsehgal?logo=twitter&style=for-the-badge" alt="iamvishalsehgal" /></a> </p>
 
-- 🌱 I’m currently learning **Python, DSA, Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Python, DSA, Machine Learning**
+- 💬 Ask me about **Python, DSA, Machine Learning, R, Databases**
 
 - 📫 How to reach me **vishalsehgal414@gmail.com**
 
