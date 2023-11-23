@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Python, DSA, Machine Learning, R, Databases**
+- 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **vishalsehgal414@gmail.com**
 
