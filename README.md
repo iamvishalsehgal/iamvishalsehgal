@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/iamvishalsehgal" target="blank"><img src="https://img.shields.io/twitter/follow/iamvishalsehgal?logo=twitter&style=for-the-badge" alt="iamvishalsehgal" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
-
 - 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **vishalsehgal414@gmail.com**
