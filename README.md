@@ -1,6 +1,6 @@
 # Hello, I'm Vishal Sehgal! 👋
 
-Hi, I’m Vishal Sehgal, a Data Engineer and Data Scientist passionate about building robust data pipelines and uncovering insights with machine learning. Skilled in Python, SQL, and React from my web development roots, I create scalable data solutions. Explore my projects and let’s tackle data challenges together!
+Hi, I’m Vishal Sehgal, a Data Engineer and Data Scientist passionate about building robust data pipelines and uncovering insights with machine learning. Skilled in Python, SQL, and React, Java, C/C++ from my web and software development roots, I create scalable data solutions. Explore my projects and let’s tackle data challenges together!
 
 ## 🔧 Technologies & Tools
 - **Data Science**: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter Notebook, TensorFlow, Seaborn
