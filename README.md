@@ -11,10 +11,8 @@ Welcome to my GitHub profile! I'm a **Data Scientist** with extensive experience
 
 
 ## 📫 Get in Touch
-- **Email**: [vishal.sehgal@example.com](mailto:vishal.sehgal@example.com)
-- **LinkedIn**: [Vishal Sehgal](https://www.linkedin.com/in/iamvishalsehgal) *(Update with your actual link)*
-- **Twitter/X**: [@iamvishalsehgal](https://x.com/iamvishalsehgal) *(Update with your actual handle)*
-- **Portfolio**: [vishalsehgal.com](https://vishalsehgal.com) *(Update with your actual portfolio link)*
+- **Email**: [vishal.sehgal@example.com](mailto:vishalsehgal414@gmail.com)
+- **LinkedIn**: [Vishal Sehgal](https://www.linkedin.com/in/iamvishalsehgal) 
 
 Feel free to explore my repositories and connect with me to discuss data science, web development, or software projects! 🚀
 
