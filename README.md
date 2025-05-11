@@ -1,6 +1,6 @@
 # Hello, I'm Vishal Sehgal! 👋
 
-Welcome to my GitHub profile! I'm a **Data Scientist** with extensive experience in **Web Development** and **Software Development**. I love diving into data to uncover actionable insights, crafting user-friendly web applications, and building reliable software solutions. Check out my projects to see my work in web and software development, with more data science projects coming soon!
+Hi, I’m Vishal Sehgal, a Data Scientist passionate about transforming data into actionable insights through pipelines, machine learning and advanced analytics. With a background in Web Development and Software Development, I blend data expertise with coding skills to solve complex problems. Dive into my projects and let’s collaborate on data-driven innovations!
 
 ## 🔧 Technologies & Tools
 - **Data Science**: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter Notebook, TensorFlow, Seaborn
