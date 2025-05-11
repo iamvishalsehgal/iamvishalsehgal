@@ -9,13 +9,6 @@ Welcome to my GitHub profile! I'm a **Data Scientist** with extensive experience
 - **Tools**: Git, VS Code, npm
 - **Databases**: MongoDB, MySQL
 
-## 🌟 Featured Projects
-- **[portfolio](https://github.com/iamvishalsehgal/portfolio)**: My personal portfolio website, showcasing my skills, projects, and journey as a developer, built with HTML, CSS, and JavaScript.
-- **[react-todo-app](https://github.com/iamvishalsehgal/react-todo-app)**: A sleek to-do list application built with React, enabling users to create and manage tasks efficiently.
-
-## 📊 GitHub Stats
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamvishalsehgal&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvishalsehgal&layout=compact&theme=radical)
 
 ## 📫 Get in Touch
 - **Email**: [vishal.sehgal@example.com](mailto:vishal.sehgal@example.com)
