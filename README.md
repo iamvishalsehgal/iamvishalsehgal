@@ -1,18 +1,29 @@
-<h1 align="center">Hi 👋, I'm Vishal Sehgal</h1>
-<h3 align="center">A Master Student at TU Eindhoven and Tilburg University</h3>
+# Hello, I'm Vishal Sehgal! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvishalsehgal&label=Profile%20views&color=0e75b6&style=flat" alt="iamvishalsehgal" /> </p>
+Welcome to my GitHub profile! I'm a **Data Scientist** with extensive experience in **Web Development** and **Software Development**. I love diving into data to uncover actionable insights, crafting user-friendly web applications, and building reliable software solutions. Check out my projects to see my work in web and software development, with more data science projects coming soon!
 
-<p align="left"> <a href="https://twitter.com/iamvishalsehgal" target="blank"><img src="https://img.shields.io/twitter/follow/iamvishalsehgal?logo=twitter&style=for-the-badge" alt="iamvishalsehgal" /></a> </p>
+## 🔧 Technologies & Tools
+- **Data Science**: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Jupyter Notebook
+- **Languages**: JavaScript, HTML, CSS, Python, SQL
+- **Frameworks**: React, Node.js
+- **Tools**: Git, VS Code, npm
+- **Databases**: MongoDB, MySQL
 
-- 💬 Ask me about **Data Science**
+## 🌟 Featured Projects
+- **[portfolio](https://github.com/iamvishalsehgal/portfolio)**: My personal portfolio website, showcasing my skills, projects, and journey as a developer, built with HTML, CSS, and JavaScript.
+- **[react-todo-app](https://github.com/iamvishalsehgal/react-todo-app)**: A sleek to-do list application built with React, enabling users to create and manage tasks efficiently.
 
-- 📫 How to reach me **vishalsehgal414@gmail.com**
+## 📊 GitHub Stats
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamvishalsehgal&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvishalsehgal&layout=compact&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iamvishalsehgal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamvishalsehgal" height="30" width="40" /></a>
-</p>
+## 📫 Get in Touch
+- **Email**: [vishal.sehgal@example.com](mailto:vishal.sehgal@example.com)
+- **LinkedIn**: [Vishal Sehgal](https://www.linkedin.com/in/iamvishalsehgal) *(Update with your actual link)*
+- **Twitter/X**: [@iamvishalsehgal](https://x.com/iamvishalsehgal) *(Update with your actual handle)*
+- **Portfolio**: [vishalsehgal.com](https://vishalsehgal.com) *(Update with your actual portfolio link)*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Feel free to explore my repositories and connect with me to discuss data science, web development, or software projects! 🚀
+
+---
+⭐️ If you find my work interesting, consider starring my repos or following me for updates!
