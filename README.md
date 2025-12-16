@@ -48,14 +48,14 @@ Batch and streaming pipelines, dimensional models, data quality, then RAG on top
 <a href="https://github.com/iamvishalsehgal/Semantic-Cataloging-of-Models">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamvishalsehgal&repo=Semantic-Cataloging-of-Models&theme=tokyonight" />
 </a>
-<a href="[PUT_REPO_LINK_HERE](https://github.com/iamvishalsehgal/E-commerce_Platform)">
+<a href="https://github.com/iamvishalsehgal/E-commerce_Platform">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamvishalsehgal&repo=E-commerce_Platform&theme=tokyonight" />
 </a>
 
-<a href="[PUT_REPO_LINK_HERE](https://github.com/iamvishalsehgal/RAGMeUp)">
+<a href="https://github.com/iamvishalsehgal/RAGMeUp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamvishalsehgal&repo=RAGMeUp&theme=tokyonight" />
 </a>
-<a href="[PUT_REPO_LINK_HERE](https://github.com/iamvishalsehgal/Comfy-Data-Insights)">
+<a href="https://github.com/iamvishalsehgal/Comfy-Data-Insights">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamvishalsehgal&repo=Comfy-Data-Insights&theme=tokyonight" />
 </a>
 
